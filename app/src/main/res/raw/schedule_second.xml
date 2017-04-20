@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Расписание для второй подгруппы -->
+<data>
+    <!-- 6 февраля 2017 года - первый учебный день -->
+    <!-- weekType: e - каждую неделю (everyWeek), o - нечетная (odd), p - четная (parity) -->
+    <firstDay year = "2017"
+        month = "2"
+        day = "6">
+    </firstDay>
+    <lessonTime hours = "1"
+        minutes = "35">
+    </lessonTime>
+    <day name = "Понедельник">
+        <subject
+            name = "Прикладная теория информации"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "4307"
+            lecturer = "Ломакин Дмитрий Викторович"
+            additionalInfo = "2гр - 4, 8, 12, 16"
+            weekType = "4, 8, 12, 16">
+        </subject>
+        <subject
+            name = "Прикладная теория информации"
+            subjectNum = "2"
+            time1h = "9"
+            time1m = "20"
+            classroom = "4307"
+            lecturer = "Ломакин Дмитрий Викторович"
+            additionalInfo = "2гр - 4, 8, 12, 16"
+            weekType = "4, 8, 12, 16">
+        </subject>
+        <subject
+            name = "Операционные системы"
+            subjectNum = "3"
+            time1h = "11"
+            time1m = "10"
+            classroom = "1363"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = "а.1363-7"
+            weekType = "e">
+        </subject>
+        <subject
+            name = "Основы теории управления"
+            subjectNum = "4"
+            time1h = "13"
+            time1m = "15"
+            classroom = "1329"
+            lecturer = "Никулин Евгений Александрович"
+            additionalInfo = ""
+            weekType = "e">
+        </subject>
+        <subject
+            name = "БЖД"
+            subjectNum = "5"
+            time1h = "15"
+            time1m = "0"
+            classroom = "1353"
+            lecturer = "Елькин Анатолий Борисович"
+            additionalInfo = "нечетная неделя"
+            weekType = "o">
+        </subject>
+        <subject
+            name = "Основы теории управления"
+            subjectNum = "5"
+            time1h = "15"
+            time1m = "0"
+            classroom = "1329"
+            lecturer = "Никулин Евгений Александрович"
+            additionalInfo = "четная неделя"
+            weekType = "p">
+        </subject>
+    </day>
+    <day name = "Вторник">
+        <subject
+            name = "БЖД"
+            subjectNum = "1"
+            time1h = "8"
+            time1m = "0"
+            classroom = "6350"
+            lecturer = "Елькин Анатолий Борисович"
+            additionalInfo = "четная неделя (лаб)"
+            weekType = "p">
+        </subject>
+        <subject
+            name = "Элективный курс физ-ры"
+            subjectNum = "1"
+            time1h = "9"
+            time1m = "45"
+            classroom = ""
+            lecturer = "Коршунов Сергей Юрьевич"
+            additionalInfo = "6 корпус"
+            weekType = "e">
+        </subject>
+        <subject
+            name = "Операционные системы"
+            subjectNum = "1"
+            time1h = "11"
+            time1m = "35"
+            classroom = "6525"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = "нечетная неделя"
+            weekType = "o">
+        </subject>
+        <subject
+            name = "Сети и телекоммуникации"
+            subjectNum = "1"
+            time1h = "11"
+            time1m = "35"
+            classroom = "6525"
+            lecturer = "Зеленский Владимир Павлович"
+            additionalInfo = "четная неделя"
+            weekType = "p">
+        </subject>
+        <subject
+            name = "Прикладная теории информации"
+            subjectNum = "1"
+            time1h = "13"
+            time1m = "40"
+            classroom = "6520"
+            lecturer = "Ломакин Дмитрий Викторович"
+            additionalInfo = ""
+            weekType = "e">
+        </subject>
+        <subject
+            name = "Сети и телекоммуникации"
+            subjectNum = "1"
+            time1h = "15"
+            time1m = "25"
+            classroom = "6520"
+            lecturer = "Зеленский Владимир Павлович"
+            additionalInfo = "нечетная неделя"
+            weekType = "o">
+        </subject>
+        <subject
+            name = "БЖД"
+            subjectNum = "1"
+            time1h = "15"
+            time1m = "25"
+            classroom = "6520"
+            lecturer = "Елькин Анатолий Борисович"
+            additionalInfo = "четная неделя"
+            weekType = "p">
+        </subject>
+    </day>
+    <day name = "Среда">
+        <subject
+            name = "Программное обеспечение вычислительных сетей"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "5426"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+        <subject
+            name = "Программное обеспечение вычислительных сетей"
+            subjectNum = "1"
+            time1h = "9"
+            time1m = "20"
+            classroom = "5426"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+        <subject
+            name = "Основы теории управления"
+            subjectNum = "1"
+            time1h = "11"
+            time1m = "10"
+            classroom = "5412"
+            lecturer = "Никулин Евгений Александрович"
+            additionalInfo = "2гр - 5, 9, 13, 17"
+            weekType = "5, 9, 13, 17">
+        </subject>
+        <subject
+            name = "Базы данных"
+            subjectNum = "1"
+            time1h = "11"
+            time1m = "10"
+            classroom = "5422"
+            lecturer = "Супруненко Александр Владимирович"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+        <subject
+            name = "Основы теории управления"
+            subjectNum = "1"
+            time1h = "13"
+            time1m = "15"
+            classroom = "5412"
+            lecturer = "Никулин Евгений Александрович"
+            additionalInfo = "2гр - 5, 9, 13, 17"
+            weekType = "5, 9, 13, 17">
+        </subject>
+        <subject
+            name = "Базы данных"
+            subjectNum = "1"
+            time1h = "13"
+            time1m = "15"
+            classroom = "5422"
+            lecturer = "Супруненко Александр Владимирович"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+        <subject
+            name = "Организация ЭВМ"
+            subjectNum = "1"
+            time1h = "15"
+            time1m = "25"
+            classroom = "5412"
+            lecturer = "Кулясов Павел Сергеевич"
+            additionalInfo = "2гр - 4, 8, 12, 16"
+            weekType = "4, 8, 12, 16">
+        </subject>
+        <subject
+            name = "Организация ЭВМ"
+            subjectNum = "1"
+            time1h = "16"
+            time1m = "45"
+            classroom = "5412"
+            lecturer = "Кулясов Павел Сергеевич"
+            additionalInfo = "2гр - 4, 8, 12, 16"
+            weekType = "4, 8, 12, 16">
+        </subject>
+    </day>
+    <day name = "Четверг">
+        <subject
+            name = "Сети и телекоммуникации"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "5412"
+            lecturer = "Гай Василий Евгеньевич"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+        <subject
+            name = "Сети и телекоммуникации"
+            subjectNum = "1"
+            time1h = "9"
+            time1m = "20"
+            classroom = "5412"
+            lecturer = "Гай Василий Евгеньевич"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+        <subject
+            name = "Операционные системы"
+            subjectNum = "1"
+            time1h = "11"
+            time1m = "10"
+            classroom = "5426"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = "2гр - 3, 7, 11, 15"
+            weekType = "3, 7, 11, 15">
+        </subject>
+        <subject
+            name = "Операционные системы"
+            subjectNum = "1"
+            time1h = "13"
+            time1m = "15"
+            classroom = "5426"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = "2гр - 3, 7, 11, 15"
+            weekType = "3, 7, 11, 15">
+        </subject>
+        <subject
+            name = "Микропроцессорные системы"
+            subjectNum = "1"
+            time1h = "15"
+            time1m = "0"
+            classroom = "5412"
+            lecturer = "Киселев Юрий Николаевич"
+            additionalInfo = "2гр - нечетная неделя"
+            weekType = "o">
+        </subject>
+        <subject
+            name = "Микропроцессорные системы"
+            subjectNum = "1"
+            time1h = "16"
+            time1m = "45"
+            classroom = "5412"
+            lecturer = "Киселев Юрий Николаевич"
+            additionalInfo = "2гр - нечетная неделя"
+            weekType = "o">
+        </subject>
+    </day>
+    <day name = "Пятница">
+        <subject
+            name = "Программное обеспечение вычислительных сетей"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "1209"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = ""
+            weekType = "e">
+        </subject>
+        <subject
+            name = "Микропроцессорные системы"
+            subjectNum = "2"
+            time1h = "9"
+            time1m = "20"
+            classroom = "4303"
+            lecturer = "Киселев Юрий Николаевич"
+            additionalInfo = "нечетная неделя"
+            weekType = "o">
+        </subject>
+        <subject
+            name = "Криптографические методы в информационных технологиях"
+            subjectNum = "2"
+            time1h = "9"
+            time1m = "20"
+            classroom = "1247"
+            lecturer = "Жевнерчук Дмитрий Валерьевич"
+            additionalInfo = "четная неделя"
+            weekType = "p">
+        </subject>
+        <subject
+            name = "Организация ЭВМ"
+            subjectNum = "1"
+            time1h = "11"
+            time1m = "10"
+            classroom = "4201"
+            lecturer = "Зеленский Владимир Павлович"
+            additionalInfo = ""
+            weekType = "e">
+        </subject>
+    </day>
+    <day name = "Суббота">
+        <subject
+            name = "БЖД"
+            subjectNum = "1"
+            time1h = "8"
+            time1m = "0"
+            classroom = "6350"
+            lecturer = "Елькин Анатолий Борисович"
+            additionalInfo = "четная неделя (лаб)"
+            weekType = "p">
+        </subject>
+        <subject
+            name = "Базы данных"
+            subjectNum = "2"
+            time1h = "9"
+            time1m = "45"
+            classroom = "6314"
+            lecturer = "Супруненко Александр Владимирович"
+            additionalInfo = ""
+            weekType = "e">
+        </subject>
+        <subject
+            name = "Базы данных"
+            subjectNum = "2"
+            time1h = "11"
+            time1m = "25"
+            classroom = "6314"
+            lecturer = "Супруненко Александр Владимирович"
+            additionalInfo = "Упражнения"
+            weekType = "o">
+        </subject>
+    </day>
+</data>

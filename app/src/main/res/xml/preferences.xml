@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="address_group1"
+        android:summary="Источник расписания для первой группы"
+        android:title="Адрес расписания (1 группа)">
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="address_group2"
+        android:summary="Источник расписания для второй группы"
+        android:title="Адрес расписания (2 группа)">
+    </EditTextPreference>
+
+    <ListPreference
+        android:key="list_pref"
+        android:title="Выбор подгруппы"
+        android:defaultValue="first"
+        android:entries="@array/entries_group_number"
+        android:entryValues="@array/value_group_number">
+    </ListPreference>
+
+</PreferenceScreen>

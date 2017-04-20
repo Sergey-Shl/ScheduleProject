@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/next_week"
+        android:orderInCategory="100"
+        android:title="Следующая неделя"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/prev_week"
+        android:orderInCategory="100"
+        android:title="Предыдущая неделя"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/subject_list"
+        android:orderInCategory="100"
+        android:title="Типы аттестации" />
+    <item
+        android:id="@+id/update"
+        android:orderInCategory="100"
+        android:title="Обновить"
+        app:showAsAction="never" />
+
+</menu>

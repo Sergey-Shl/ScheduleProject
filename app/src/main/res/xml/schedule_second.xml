@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Расписание для первой подгруппы -->
+<data>
+    <!-- 6 февраля 2017 года - первый учебный день -->
+    <!-- weekType: e - каждую неделю (everyWeek), o - нечетная (odd), p - четная (parity) -->
+    <firstDay year = "2017"
+        month = "2"
+        day = "6">
+    </firstDay>
+    <lessonTime hours = "1"
+        minutes = "35">
+    </lessonTime>
+    <day name = "Понедельник">
+        <subject
+            name = "Прикладная теория информации"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "4307"
+            lecturer = "Ломакин Дмитрий Викторович"
+            additionalInfo = "2гр - 4, 8, 12, 16"
+            weekType = "4, 8, 12, 16">
+        </subject>
+    </day>
+    <day name = "Вторник">
+        <subject
+            name = "БЖД"
+            subjectNum = "1"
+            time1h = "8"
+            time1m = "0"
+            classroom = "6350"
+            lecturer = "Елькин Анатолий Борисович"
+            additionalInfo = "четная неделя (лаб)"
+            weekType = "p">
+        </subject>
+    </day>
+    <day name = "Среда">
+        <subject
+            name = "Программное обеспечение вычислительных сетей"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "5426"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+    </day>
+    <day name = "Четверг">
+        <subject
+            name = "Сети и телекоммуникации"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "5412"
+            lecturer = "Гай Василий Евгеньевич"
+            additionalInfo = "2гр - 2, 6, 10, 14"
+            weekType = "2, 6, 10, 14">
+        </subject>
+    </day>
+    <day name = "Пятница">
+        <subject
+            name = "Программное обеспечение вычислительных сетей"
+            subjectNum = "1"
+            time1h = "7"
+            time1m = "30"
+            classroom = "1209"
+            lecturer = "Кочешков Александр Александрович"
+            additionalInfo = ""
+            weekType = "e">
+        </subject>
+    </day>
+    <day name = "Суббота">
+        <subject
+            name = "БЖД"
+            subjectNum = "1"
+            time1h = "8"
+            time1m = "0"
+            classroom = "6350"
+            lecturer = "Елькин Анатолий Борисович"
+            additionalInfo = "четная неделя (лаб)"
+            weekType = "o">
+        </subject>
+    </day>
+</data>

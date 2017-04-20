@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--E - экзамен, N - зачет-->
+<subjects>
+    <subject
+        name = "Прикладная теория информации"
+        lecturer = "Ломакин Дмитрий Викторович"
+        type = "N"></subject>
+
+    <subject
+        name = "Операционные системы"
+        lecturer = "Кочешков Александр Александрович"
+        type = "E"></subject>
+
+    <subject
+        name = "Основы теории управления"
+        lecturer = "Никулин Евгений Александрович"
+        type = "N"></subject>
+
+    <subject
+        name = "БЖД"
+        lecturer = "Елькин Анатолий Борисович"
+        type = "N"></subject>
+
+    <subject
+        name = "Элективный курс физ-ры"
+        lecturer = "Коршунов Сергей Юрьевич"
+        type = "N"></subject>
+
+    <subject
+        name = "Сети и телекоммуникации"
+        lecturer = "Зеленский Владимир Павлович"
+        type = "E"></subject>
+
+    <subject
+        name = "Микропроцессорные системы"
+        lecturer = "Киселев Юрий Николаевич"
+        type = "N"></subject>
+
+    <subject
+        name = "Программное обеспечение вычислительных сетей"
+        lecturer = "Кочешков Александр Александрович"
+        type = "E"></subject>
+
+    <subject
+        name = "Базы данных"
+        lecturer = "Супруненко Александр Владимирович"
+        type = "E"></subject>
+
+    <subject
+        name = "Организация ЭВМ"
+        lecturer = "Зеленский Владимир Павлович"
+        type = "E"></subject>
+
+    <subject
+        name = "Криптографические методы в информационных технологиях"
+        lecturer = "Жевнерчук Дмитрий Валерьевич"
+        type = "N"></subject>
+</subjects>
